@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CustomerUpdation
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: user
+Implementation-Vendor-Id: com.Customer
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Updation
+Created-By: Maven Integration for Eclipse
+
